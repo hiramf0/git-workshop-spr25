@@ -3,6 +3,8 @@
 This repository will be used to practice your Git skills by managing forks and
 branches.
 
+[Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+
 ## Git 1 (Local)
 
 Complete the following:
